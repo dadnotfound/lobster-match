@@ -1,0 +1,84 @@
+{
+  "version": "1.0.0",
+  "language": "zh",
+  "questions": [
+    {
+      "id": "EI-1",
+      "dimension": "EI",
+      "question": "在陌生社交场合，你通常会...",
+      "options": [
+        {
+          "key": "A",
+          "text": "主动和人聊天",
+          "value": "E"
+        },
+        {
+          "key": "B",
+          "text": "先观察再决定",
+          "value": "I"
+        }
+      ],
+      "weight": 1
+    },
+    {
+      "id": "SN-1",
+      "dimension": "SN",
+      "question": "你更相信...",
+      "options": [
+        {
+          "key": "A",
+          "text": "实际经验和数据",
+          "value": "S"
+        },
+        {
+          "key": "B",
+          "text": "直觉和灵感",
+          "value": "N"
+        }
+      ],
+      "weight": 1
+    },
+    {
+      "id": "TF-1",
+      "dimension": "TF",
+      "question": "做决定时，你更看重...",
+      "options": [
+        {
+          "key": "A",
+          "text": "逻辑和利弊分析",
+          "value": "T"
+        },
+        {
+          "key": "B",
+          "text": "自己和他人的感受",
+          "value": "F"
+        }
+      ],
+      "weight": 1
+    },
+    {
+      "id": "JP-1",
+      "dimension": "JP",
+      "question": "面对计划，你更喜欢...",
+      "options": [
+        {
+          "key": "A",
+          "text": "提前规划，按计划执行",
+          "value": "J"
+        },
+        {
+          "key": "B",
+          "text": "灵活调整，随遇而安",
+          "value": "P"
+        }
+      ],
+      "weight": 1
+    }
+  ],
+  "metadata": {
+    "total": 4,
+    "dimensions": ["EI", "SN", "TF", "JP"],
+    "created": "2026-03-12",
+    "updated": "2026-03-12"
+  }
+}

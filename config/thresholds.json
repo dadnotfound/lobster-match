@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "scores": {
+    "S": {
+      "min": 80,
+      "max": 100,
+      "label": "天生一对",
+      "emoji": "🎉",
+      "description": "默契度极高，完美搭配"
+    },
+    "A": {
+      "min": 70,
+      "max": 79,
+      "label": "相处很好",
+      "emoji": "👍",
+      "description": "默契度高，互补性强"
+    },
+    "B": {
+      "min": 60,
+      "max": 69,
+      "label": "相处不错",
+      "emoji": "😊",
+      "description": "有一定默契，还有提升空间"
+    },
+    "C": {
+      "min": 50,
+      "max": 59,
+      "label": "需要磨合",
+      "emoji": "🤔",
+      "description": "思维方式不同，但互补性强"
+    },
+    "D": {
+      "min": 0,
+      "max": 49,
+      "label": "挑战较大",
+      "emoji": "⚠️",
+      "description": "差异较大，需要更多理解"
+    }
+  },
+  "metadata": {
+    "created": "2026-03-12",
+    "updated": "2026-03-12"
+  }
+}
